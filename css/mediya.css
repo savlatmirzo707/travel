@@ -1,0 +1,28 @@
+
+
+@media (max-width: 1200px){
+    .container{
+        background-color: aqua;
+        width: 900px;
+    }
+}
+
+@media (max-width: 992px){
+    .container{
+    width: 700px;
+
+    }
+    font-size: 80px;
+}
+
+@media (max-width: 768px){
+    .container{
+     width: 500px;
+    }
+}
+
+@media (max-width: 576px){
+    .container{
+    width: 100px;
+    }
+}
